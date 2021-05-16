@@ -44,6 +44,7 @@ class Solution{
           }
       }
 };
+using namespace std;
 int main()
 {
 	Node* head=NULL;
